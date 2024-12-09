@@ -1,5 +1,8 @@
-# 💫 About Me:
-I'm a fresher.<br>I'm a B tech computer science Engineering students.
+👋 Hi!
+I’m a B.Tech CSE student specializing in Artificial Intelligence, passionate about Software Engineering and building innovative solutions.
+
+🌱 Currently Learning: AI techniques and full-stack development.
+🚀 Goal: To create impactful software and contribute to the AI-driven future.
 
 
 ## 🌐 Socials:
