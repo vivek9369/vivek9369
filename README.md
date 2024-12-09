@@ -1,4 +1,5 @@
-👋 Hi!
+👋 Hi!  I'm Vivek Maurya 
+A passionate software developer
 I’m a B.Tech CSE student specializing in Artificial Intelligence, passionate about Software Engineering and building innovative solutions.
 
 🌱 Currently Learning: AI techniques and full-stack development.
