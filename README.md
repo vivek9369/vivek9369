@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a fresher.<br>I'm a B tech computer science Engineering students.<br>Currently I'm a learning MERN and DSA With Java.<br>The language i know Java python HTML CSS JavaScript.
+I'm a fresher.<br>I'm a B tech computer science Engineering students.
 
 
 ## 🌐 Socials:
