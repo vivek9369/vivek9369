@@ -26,3 +26,8 @@ I’m a B.Tech CSE student specializing in Artificial Intelligence, passionate a
 vivek9369/vivek9369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<h1 align="center">Hi 👋 I'm Vivek</h1>
+
+<p align="center">
+  <img src="https://github.com/vivek9369/Space_Shooter/blob/main/assets/space-shooter.gif" />
+</p>
