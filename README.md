@@ -1,18 +1,27 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=VIVEK%20MAURYA&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=160&section=header&text=VIVEK%20MAURYA&fontSize=48&fontColor=61DAFB&animation=twinkling&fontAlignY=40" />
 
-👋 Hi, I'm **Vivek Maurya**  
-🎓 B.Tech CSE (AI) Student | 💻 Software Developer  
+<h3 align="center">👋 Hi, I'm Vivek Maurya</h3>
 
-I’m passionate about **Software Engineering**, **Artificial Intelligence**, and building real-world, impactful solutions.  
-I enjoy turning complex ideas into clean, efficient code.
+<p align="center">
+🎓 B.Tech CSE (AI) Student • 💻 Software Developer • 🤖 AI Enthusiast  
+</p>
 
-🌱 **Currently Learning:**  
-AI techniques • DSA • Full-Stack Development (MERN)
+<p align="center">
+I love building clean, scalable software and exploring how AI can solve real-world problems.  
+Always learning, always shipping.
+</p>
 
-🚀 **Goal:**  
-Build scalable software & contribute to the AI-driven future.
+---
 
-💡 *“Crafting logic and elegance in every line of code.”*
+### 🌱 Currently Learning
+- Data Structures & Algorithms  
+- Artificial Intelligence  
+- Full-Stack Development (MERN)
+
+### 🚀 Goal
+Create impactful software and contribute to the AI-driven future.
+
+> 💡 *“Crafting logic and elegance in every line of code.”*
 
 ---
 
@@ -31,7 +40,7 @@ Build scalable software & contribute to the AI-driven future.
   <a href="https://www.linkedin.com/in/your-linkedin-username">
     <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
   </a>
-  <a href="https://www.instagram.com/your-instagram-id">
+  <a href="https://www.instagram.com/your-instagram-username">
     <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
   </a>
   <a href="https://discord.com/users/805123459566010417">
@@ -40,8 +49,8 @@ Build scalable software & contribute to the AI-driven future.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vivek9369&color=3a8296&label=Profile%20Views" />
-  <img src="https://img.shields.io/github/followers/vivek9369?label=Followers&color=3a8296&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=vivek9369&label=Profile%20Views&color=3a8296" />
+  <img src="https://img.shields.io/github/followers/vivek9369?label=Followers&style=flat&color=3a8296" />
 </p>
 
 ---
@@ -49,7 +58,7 @@ Build scalable software & contribute to the AI-driven future.
 ## 🧠 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,js,html,css&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,c,js,html,css" />
 </p>
 
 ---
@@ -57,24 +66,24 @@ Build scalable software & contribute to the AI-driven future.
 ## ⚙️ Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=light" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  ✅ (FIXED)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivek9369&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296" height="170em"/>
-  <img src="https://streak-stats.demolab.com?user=vivek9369&theme=radical&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB" height="170em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vivek9369&show_icons=true&theme=radical" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=vivek9369&theme=radical" height="165"/>
 </p>
 
 ---
 
-## 🧩 Most Used Languages
+## 🧩 Most Used Languages  ✅ (FIXED)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek9369&layout=compact&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek9369&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -82,9 +91,9 @@ Build scalable software & contribute to the AI-driven future.
 ## ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&text_color=61DAFB" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=110&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=24&fontColor=61DAFB&animation=twinkling" />
