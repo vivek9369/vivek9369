@@ -31,19 +31,6 @@ const vivek = {
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  
-| Achievement | Badge |
-|-------------|-------|
-| **Quickdraw** | ![Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png) |
-| **YOLO** | ![YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png) |
-| **Pull Shark** | ![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png) |
-| **Starstruck** | ![Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) |
-
-🎖️ **Highlights:** Developer Program Member
-
 </div>
 
 ---
@@ -121,15 +108,6 @@ const vivek = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vivek9369&theme=radical" alt="Productive Time" width="47%"/>
 </p>
 
----
-
-## 🎖️ GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vivek9369&theme=radical&no-frame=true&no-bg=false&row=2&column=6" alt="GitHub Trophies"/>
-</p>
-
----
 
 ## ✍️ Random Dev Quote
 
