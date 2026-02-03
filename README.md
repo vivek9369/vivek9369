@@ -77,32 +77,47 @@ const vivek = {
 
 ## 📊 GitHub Statistics
 
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivek9369&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vivek9369&theme=radical)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivek9369&theme=radical" alt="GitHub Stats Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vivek9369&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=vivek9369&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
+</p>
 
 ---
 
 ## 🧩 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek9369&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivek9369&theme=radical" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vivek9369&theme=radical" alt="Most Commit Language"/>
+</p>
 
 ---
 
 ## 📈 Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vivek9369&theme=github-compact)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vivek9369&theme=radical" alt="Productive Time"/>
+</p>
 
 ---
 
 ## 🏆 GitHub Achievements
 
-![trophy](https://github-profile-trophy.vercel.app/?username=vivek9369&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vivek9369&theme=radical&no-frame=true&no-bg=false&row=1&column=7" alt="GitHub Trophies"/>
+</p>
 
 ---
 
 ## ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+</p>
 
 ---
 
