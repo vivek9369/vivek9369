@@ -133,17 +133,10 @@ const vivek = {
 - 🚀 Job Opportunities
 
 </div>
-
 ---
-
-## 📌 Pinned Projects
-
-<div align="center">
-
-Coming Soon! 🚀
-
-*Working on some amazing projects. Stay tuned!*
-
+<p align="center">
+  <img src="assets/space-shooter.gif" />
+</p>
 </div>
 
 ---
