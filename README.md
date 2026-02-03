@@ -101,14 +101,6 @@ const vivek = {
 </p>
 
 ---
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vivek9369&theme=radical" alt="Productive Time" width="47%"/>
-</p>
-
-
 ## ✍️ Random Dev Quote
 
 <p align="center">
