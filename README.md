@@ -1,25 +1,25 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=160&section=header&text=VIVEK%20MAURYA&fontSize=48&fontColor=61DAFB&animation=twinkling&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=VIVEK%20MAURYA&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
 
 <h3 align="center">👋 Hi, I'm Vivek Maurya</h3>
 
 <p align="center">
-🎓 B.Tech CSE (AI) Student • 💻 Software Developer • 🤖 AI Enthusiast  
+🎓 B.Tech CSE (AI) Student | 💻 Software Developer  
 </p>
 
 <p align="center">
-I love building clean, scalable software and exploring how AI can solve real-world problems.  
-Always learning, always shipping.
+I’m passionate about <b>Software Engineering</b>, <b>Artificial Intelligence</b>, and building real-world solutions.<br>
+I love converting ideas into clean, efficient, and scalable code.
 </p>
 
 ---
 
 ### 🌱 Currently Learning
-- Data Structures & Algorithms  
 - Artificial Intelligence  
+- Data Structures & Algorithms  
 - Full-Stack Development (MERN)
 
 ### 🚀 Goal
-Create impactful software and contribute to the AI-driven future.
+To build impactful software and contribute to the AI-driven future.
 
 > 💡 *“Crafting logic and elegance in every line of code.”*
 
@@ -37,10 +37,10 @@ Create impactful software and contribute to the AI-driven future.
   <a href="mailto:vivekmaurya936984@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username">
+  <a href="https://www.linkedin.com/in/your-linkedin-id">
     <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
   </a>
-  <a href="https://www.instagram.com/your-instagram-username">
+  <a href="https://www.instagram.com/your-instagram-id">
     <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
   </a>
   <a href="https://discord.com/users/805123459566010417">
@@ -49,8 +49,8 @@ Create impactful software and contribute to the AI-driven future.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vivek9369&label=Profile%20Views&color=3a8296" />
-  <img src="https://img.shields.io/github/followers/vivek9369?label=Followers&style=flat&color=3a8296" />
+  <img src="https://komarev.com/ghpvc/?username=vivek9369&color=3a8296&label=Profile%20Views" />
+  <img src="https://img.shields.io/github/followers/vivek9369?label=Followers&color=3a8296&style=flat" />
 </p>
 
 ---
@@ -58,7 +58,7 @@ Create impactful software and contribute to the AI-driven future.
 ## 🧠 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,c,js,html,css&theme=dark" />
 </p>
 
 ---
@@ -66,21 +66,21 @@ Create impactful software and contribute to the AI-driven future.
 ## ⚙️ Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  ✅ (FIXED)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivek9369&show_icons=true&theme=radical" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=vivek9369&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vivek9369&show_icons=true&theme=radical" height="170em"/>
+  <img src="https://streak-stats.demolab.com?user=vivek9369&theme=radical" height="170em"/>
 </p>
 
 ---
 
-## 🧩 Most Used Languages  ✅ (FIXED)
+## 🧩 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek9369&layout=compact&theme=radical" />
@@ -96,4 +96,4 @@ Create impactful software and contribute to the AI-driven future.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=110&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=24&fontColor=61DAFB&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
