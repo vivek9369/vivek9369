@@ -35,10 +35,10 @@ const vivek = {
 
 <div align="center">
   
-[![Gmail](https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB)](mailto:vivekmaurya936984@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB)](https://www.linkedin.com/in/vivek-maurya)
-[![Instagram](https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB)](https://www.instagram.com/vivek_maurya)
-[![Discord](https://img.shields.io/badge/Discord-091519?style=for-the-badge&logo=discord&logoColor=61DAFB)](https://discord.com/users/805123459566010417)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekmaurya936984@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-maurya)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vivek_maurya)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/805123459566010417)
 
 <br/>
 
@@ -53,11 +53,23 @@ const vivek = {
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=java,c,js,html,css,python" />
+### 💻 Languages
 
-### Tools & Technologies
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,nodejs,react" />
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🛠️ Tools & Technologies
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 </div>
 
@@ -66,8 +78,11 @@ const vivek = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivek9369&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek9369&theme=radical&hide_border=true&background=0D1117" height="180em"/>
+  
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivek9369&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=ffffff)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vivek9369&theme=tokyonight&hide_border=true&background=0D1117&stroke=61DAFB&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB)
+
 </div>
 
 ---
@@ -75,23 +90,25 @@ const vivek = {
 ## 🧩 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek9369&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" />
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek9369&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=ffffff)
+
 </div>
 
 ---
 
 ## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivek9369&theme=react-dark&hide_border=true&area=true" width="100%">
-</div>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vivek9369&bg_color=0d1117&color=61dafb&line=3a8296&point=61dafb&area=true&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vivek9369&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+
+![trophy](https://github-profile-trophy.vercel.app/?username=vivek9369&theme=algolia&no-frame=true&no-bg=true&row=1&column=7)
+
 </div>
 
 ---
@@ -99,29 +116,32 @@ const vivek = {
 ## ✍️ Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
 
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vivek9369&repo=your-repo-name&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/vivek9369/your-repo-name)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vivek9369&repo=your-repo-name-2&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/vivek9369/your-repo-name-2)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
 ---
 
-## 💭 Quote of the Day
+## 💡 Fun Fact
 
 <div align="center">
-  
-*"First, solve the problem. Then, write the code."* – John Johnson
+
+```
+🌟 "Code is like humor. When you have to explain it, it's bad." – Cory House
+```
 
 </div>
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Master Data Structures & Algorithms
+- 🚀 Build 5+ Full-Stack Projects
+- 🤖 Contribute to Open Source AI Projects
+- 📚 Learn Advanced Machine Learning
+- 💼 Land a Dream Internship
 
 ---
 
@@ -130,5 +150,7 @@ const vivek = {
 <div align="center">
   
 ### 💡 *Let's build something amazing together!*
+
+⭐ Feel free to star my repositories if you find them interesting!
 
 </div>
