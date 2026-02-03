@@ -131,16 +131,11 @@ const vivek = {
 - 🤝 Open Source Contributions
 - 💡 Tech Discussions
 - 🚀 Job Opportunities
-
-</div>
 ---
 <p align="center">
   <img src="assets/space-shooter.gif" />
 </p>
-</div>
-
 ---
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=120&section=footer&text=Thanks%20for%20Visiting!%20👋&fontSize=24&fontColor=61DAFB&animation=twinkling" width="100%"/>
 
 <div align="center">
