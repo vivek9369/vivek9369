@@ -20,7 +20,7 @@ I’m a B.Tech CSE student specializing in Artificial Intelligence, passionate a
 ### 📬 Connect with Me  
 
 <p align="center">
-  <a href="mailto:aminehamzaoui1926@gmail.com">
+  <a href="vivekmaurya936984@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
   </a>
   <a href="https://www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b">
