@@ -77,61 +77,64 @@ const vivek = {
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivek9369&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=ffffff)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vivek9369&theme=tokyonight&hide_border=true&background=0D1117&stroke=61DAFB&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vivek9369&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=ffffff" alt="Vivek's GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek9369&theme=tokyonight&hide_border=true&background=0D1117&stroke=61DAFB&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="Vivek's Streak Stats" height="180"/>
+</p>
 
 ---
 
 ## 🧩 Most Used Languages
 
-<div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek9369&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=ffffff)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek9369&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=ffffff" alt="Top Languages"/>
+</p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vivek9369&bg_color=0d1117&color=61dafb&line=3a8296&point=61dafb&area=true&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivek9369&bg_color=0d1117&color=61dafb&line=3a8296&point=61dafb&area=true&hide_border=true" alt="Contribution Graph"/>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vivek9369&theme=algolia&no-frame=true&no-bg=false&row=1&column=7" alt="GitHub Trophies"/>
+</p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=vivek9369&theme=algolia&no-frame=true&no-bg=true&row=1&column=7)
+---
 
-</div>
+## 📌 Pinned Repositories
+
+<p align="center">
+  <a href="https://github.com/vivek9369">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek9369&repo=vivek9369&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=ffffff" alt="Repo 1"/>
+  </a>
+</p>
 
 ---
 
 ## ✍️ Random Dev Quote
 
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</p>
 
 ---
 
-## 💡 Fun Fact
+## 💡 Fun Facts About Me
 
-<div align="center">
-
+```yaml
+🎯 Current Focus: Mastering DSA & Building AI Projects
+🌱 Learning: MERN Stack, Machine Learning, Cloud Computing
+💪 Strengths: Problem Solving, Clean Code, Quick Learner
+🎮 Hobbies: Coding, Gaming, Exploring New Technologies
+☕ Fuel: Coffee & Curiosity
 ```
-🌟 "Code is like humor. When you have to explain it, it's bad." – Cory House
-```
-
-</div>
 
 ---
 
@@ -145,12 +148,26 @@ const vivek = {
 
 ---
 
+## 📫 Get In Touch
+
+<div align="center">
+
+**Feel free to reach out for:**
+- 💼 Collaboration on Projects
+- 🤝 Open Source Contributions
+- 💡 Tech Discussions
+- 🚀 Opportunities
+
+</div>
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=120&section=footer&text=Thanks%20for%20Visiting!%20👋&fontSize=24&fontColor=61DAFB&animation=twinkling" width="100%"/>
 
 <div align="center">
   
-### 💡 *Let's build something amazing together!*
+### 💡 *"Code is poetry written in logic"*
 
-⭐ Feel free to star my repositories if you find them interesting!
+⭐ **Star my repositories if you find them useful!**
 
 </div>
