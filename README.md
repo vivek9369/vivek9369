@@ -124,17 +124,13 @@ const vivek = {
 ☕ Fuel: Coffee & Curiosity
 📍 Location: India
 ```
-</div>
+# 🚀 My GitHub Space Shooter
 
-**Open to:**
-- 💼 Collaboration on Projects
-- 🤝 Open Source Contributions
-- 💡 Tech Discussions
-- 🚀 Job Opportunities
----
 <p align="center">
   <img src="assets/space-shooter.gif" />
 </p>
+
+
 ---
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=120&section=footer&text=Thanks%20for%20Visiting!%20👋&fontSize=24&fontColor=61DAFB&animation=twinkling" width="100%"/>
 
