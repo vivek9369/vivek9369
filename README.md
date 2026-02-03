@@ -2,9 +2,9 @@
 
 <div align="center">
   
-### 👋 Hi, I'm Vivek Maurya
+# 👋 Hi, I'm Vivek Maurya
 
-🎓 B.Tech CSE (AI) Student • 💻 Software Developer • 🤖 AI Enthusiast
+🎓 **B.Tech CSE (AI) Student** • 💻 **Software Developer** • 🤖 **AI Enthusiast**
 
 *I love building clean, scalable software and exploring how AI can solve real-world problems.*  
 *Always learning, always shipping.*
@@ -31,14 +31,32 @@ const vivek = {
 
 ---
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+  
+| Achievement | Badge |
+|-------------|-------|
+| **Quickdraw** | ![Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png) |
+| **YOLO** | ![YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png) |
+| **Pull Shark** | ![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png) |
+| **Starstruck** | ![Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) |
+
+🎖️ **Highlights:** Developer Program Member
+
+</div>
+
+---
+
 ## 📬 Connect With Me
 
 <div align="center">
   
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekmaurya936984@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-maurya)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vivek_maurya)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vivek_maurya69)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/805123459566010417)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-nine-zeta-34y7130wc7.vercel.app/)
 
 <br/>
 
@@ -53,7 +71,7 @@ const vivek = {
 
 <div align="center">
 
-### 💻 Languages
+### 💻 Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -82,8 +100,8 @@ const vivek = {
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vivek9369&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=vivek9369&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vivek9369&theme=radical" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=vivek9369&theme=radical&hide_border=true" alt="GitHub Streak" height="200"/>
 </p>
 
 ---
@@ -91,8 +109,8 @@ const vivek = {
 ## 🧩 Most Used Languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivek9369&theme=radical" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vivek9369&theme=radical" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivek9369&theme=radical" alt="Repos per Language" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vivek9369&theme=radical" alt="Most Commit Language" height="200"/>
 </p>
 
 ---
@@ -100,15 +118,15 @@ const vivek = {
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vivek9369&theme=radical" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vivek9369&theme=radical" alt="Productive Time" width="47%"/>
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🎖️ GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vivek9369&theme=radical&no-frame=true&no-bg=false&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vivek9369&theme=radical&no-frame=true&no-bg=false&row=2&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -123,35 +141,65 @@ const vivek = {
 
 ## 💡 Fun Facts About Me
 
+<div align="center">
+
 ```yaml
 🎯 Current Focus: Mastering DSA & Building AI Projects
-🌱 Learning: MERN Stack, Machine Learning, Cloud Computing
+🌱 Learning: MERN Stack, Machine Learning, Cloud Computing  
 💪 Strengths: Problem Solving, Clean Code, Quick Learner
 🎮 Hobbies: Coding, Gaming, Exploring New Technologies
 ☕ Fuel: Coffee & Curiosity
+📍 Location: India
 ```
+
+</div>
 
 ---
 
 ## 🎯 2026 Goals
 
-- ✅ Master Data Structures & Algorithms
-- 🚀 Build 5+ Full-Stack Projects
-- 🤖 Contribute to Open Source AI Projects
-- 📚 Learn Advanced Machine Learning
-- 💼 Land a Dream Internship
+<div align="center">
+
+```diff
++ ✅ Master Data Structures & Algorithms
++ 🚀 Build 5+ Full-Stack Projects
++ 🤖 Contribute to Open Source AI Projects
++ 📚 Learn Advanced Machine Learning
++ 💼 Land a Dream Internship
+```
+
+</div>
 
 ---
 
-## 📫 Get In Touch
+## 📫 How to Reach Me
 
 <div align="center">
 
-**Feel free to reach out for:**
+| Platform | Contact |
+|----------|---------|
+| 📧 Email | [vivekmaurya936984@gmail.com](mailto:vivekmaurya936984@gmail.com) |
+| 💼 LinkedIn | [/in/vivek-maurya](https://www.linkedin.com/in/vivek-maurya) |
+| 📷 Instagram | [@vivek_maurya69](https://www.instagram.com/vivek_maurya69) |
+| 💬 Discord | vivek_maurya69 |
+
+**Open to:**
 - 💼 Collaboration on Projects
 - 🤝 Open Source Contributions
 - 💡 Tech Discussions
-- 🚀 Opportunities
+- 🚀 Job Opportunities
+
+</div>
+
+---
+
+## 📌 Pinned Projects
+
+<div align="center">
+
+Coming Soon! 🚀
+
+*Working on some amazing projects. Stay tuned!*
 
 </div>
 
@@ -163,6 +211,6 @@ const vivek = {
   
 ### 💡 *"Code is poetry written in logic"*
 
-⭐ **Star my repositories if you find them useful!**
+⭐ **Feel free to explore my repositories and star the ones you find interesting!**
 
 </div>
