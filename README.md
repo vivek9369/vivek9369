@@ -116,11 +116,6 @@ const vivek = {
 </p>
 
 ---
-
-## 💡 Fun Facts About Me
-
-<div align="center">
-
 ```yaml
 🎯 Current Focus: Mastering DSA & Building AI Projects
 🌱 Learning: MERN Stack, Machine Learning, Cloud Computing  
@@ -129,37 +124,7 @@ const vivek = {
 ☕ Fuel: Coffee & Curiosity
 📍 Location: India
 ```
-
 </div>
-
----
-
-## 🎯 2026 Goals
-
-<div align="center">
-
-```diff
-+ ✅ Master Data Structures & Algorithms
-+ 🚀 Build 5+ Full-Stack Projects
-+ 🤖 Contribute to Open Source AI Projects
-+ 📚 Learn Advanced Machine Learning
-+ 💼 Land a Dream Internship
-```
-
-</div>
-
----
-
-## 📫 How to Reach Me
-
-<div align="center">
-
-| Platform | Contact |
-|----------|---------|
-| 📧 Email | [vivekmaurya936984@gmail.com](mailto:vivekmaurya936984@gmail.com) |
-| 💼 LinkedIn | [/in/vivek-maurya](https://www.linkedin.com/in/vivek-maurya) |
-| 📷 Instagram | [@vivek_maurya69](https://www.instagram.com/vivek_maurya69) |
-| 💬 Discord | vivek_maurya69 |
 
 **Open to:**
 - 💼 Collaboration on Projects
