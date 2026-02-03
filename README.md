@@ -6,10 +6,11 @@ A passionate software developer.
 I’m a B.Tech CSE student specializing in Artificial Intelligence, passionate about Software Engineering and building innovative solutions.
 
 🌱 Currently Learning: AI techniques and full-stack development.
+
 🚀 Goal: To create impactful software and contribute to the AI-driven future.
+
 💡 *“Crafting logic and elegance in every line of code.”*
 ---
-
 <div align="center">
     <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
 </div>
