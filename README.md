@@ -136,3 +136,9 @@ const vivek = {
 ⭐ **Feel free to explore my repositories and star the ones you find interesting!**
 
 </div>
+
+<h1 align="center">Hi 👋 I'm Vivek</h1>
+
+<p align="center">
+  <img src="https://github.com/vivek9369/Space_Shooter/blob/main/assets/space-shooter.gif" />
+</p>
