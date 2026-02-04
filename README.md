@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=160&section=header&text=VIVEK%20MAURYA&fontSize=48&fontColor=61DAFB&animation=twinkling&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=160&section=header&text=VIVEK%20MAURYA&fontSize=48&fontColor=61DAFB&animation=twinkling&fontAlignY=40"/>
 
 <div align="center">
   
