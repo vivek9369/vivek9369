@@ -126,7 +126,7 @@ const vivek = {
 </div>
 
 ---
-<h1 align="center">Hi 👋 I'm Vivek</h1>
+<h1 align="center">Hi 👋 Yoo...</h1
 
 <p align="center">
   <img src="https://github.com/vivek9369/Space_Shooter/blob/main/assets/space-shooter.gif" />
