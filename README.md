@@ -4,7 +4,7 @@
   
 # 👋 Hi, I'm Vivek Kumar Maurya
 
-🎓 **B.Tech CSE (AI) Student** • 🤖 **Web Developer**
+🎓 **B.Tech CSE (AI) Student** •
 
 *I love building clean, scalable software and exploring how AI can solve real-world problems.*  
 *Always learning, always shipping.*
