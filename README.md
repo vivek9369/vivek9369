@@ -78,29 +78,9 @@ const vivek = {
 
 </div>
 
----
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivek9369&theme=radical" alt="GitHub Stats Graph"/>
-</p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vivek9369&theme=radical" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=vivek9369&theme=radical&hide_border=true" alt="GitHub Streak" height="200"/>
-</p>
-
----
-
-## 🧩 Most Used Languages
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivek9369&theme=radical" alt="Repos per Language" height="200"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vivek9369&theme=radical" alt="Most Commit Language" height="200"/>
-</p>
-
----
 ## ✍️ Random Dev Quote
 
 <p align="center">
