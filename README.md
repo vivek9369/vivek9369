@@ -86,16 +86,6 @@ const vivek = {
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 </p>
-
----
-```yaml
-🎯 Current Focus: Mastering DSA & Building AI Projects
-🌱 Learning: MERN Stack, Machine Learning, Cloud Computing  
-💪 Strengths: Problem Solving, Clean Code, Quick Learner
-🎮 Hobbies: Coding, Gaming, Exploring New Technologies
-☕ Fuel: Coffee & Curiosity
-📍 Location: India
-```
 </div>
 
 </div>
